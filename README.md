@@ -19,7 +19,7 @@
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
 | Junior Mobile Engineer| NTT DATA       | Android developer for INDITEX   | **01.05.2021 — until now** |
 | Junior Web Engineer   | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.05.2021    |
-| Freelance             | Seville        | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
+| Freelance             |        -       | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez-reina/)
 
@@ -34,7 +34,13 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimen
 
 <!-- start angular web gilena informa -->
 <details>
-<summary><b> Gilena Informa (Web APP - Angular) :point_right: </b></summary>
+<summary><b> Your town informs (Web APP - Angular) :point_right: </b></summary>
+  <br>
+  <p>This application was born from the need to provide communication services between city council workers and neighbors.
+
+It is built using TypeScript under the Angular framework, using Firebase for hosting and databases. With this application you can send communications and edit them in real time, in addition, you can check incidents, queries or proposals made by neighbors from the mobile app. These communications from neighbors can be answered through the web panel and a notification will be sent to the mobile device that created it.
+
+You can check the history of communications as well as block undesirable users.</p>
   <br>
   <img src="https://user-images.githubusercontent.com/19192017/142044720-2608a7fe-86cc-4f35-945c-a42c0558af3c.gif" alt="web angular"/>
   <br>
@@ -44,7 +50,11 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimen
 
 <!-- start ionic mobile gilena informa -->
 <details>
-<summary><b> Gilena Informa (Mobile APP - Ionic) :point_right: </b></summary>
+<summary><b> Your town informs (Mobile APP - Ionic) :point_right: </b></summary>
+  <br>
+  <p>This application was born from the need to provide communication services between city council workers and neighbors.
+
+It is built using TypeScript under the Ionic framework, using Firebase as a database and many other functionalities. With this application you can consult communications in real time, in addition, you can send incidents (with image and location through google maps), queries or proposals and they will be saved in your user profile with the answers sent by the city council workers. These responses arrive as a notification on the user's mobile device.</p>
   <br>
   <div align="center">
     <img src="https://user-images.githubusercontent.com/19192017/142046829-65eee6f9-d095-40c1-8aaf-95073c6ff40f.gif" alt="ionic" height="650" />
@@ -53,6 +63,38 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimen
   <br>
 </details>
 <!-- end ionic mobile gilena informa -->
+
+<!-- start algorithms -->
+<details>
+<summary><b> Java App to study algorithms :point_right: </b></summary>
+  <br>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/19192017/142050768-9836ec62-910c-45fb-bb32-29fd297daa6d.png" alt="alg1" />
+    <br><br>
+    <img src="https://user-images.githubusercontent.com/19192017/142050779-c75f71d2-0785-4716-ae77-3eedafaaf0fe.png" alt="alg2" />
+  </div>
+  <br>
+    <div align="center">
+        <a href="https://github.com/JonathanJR/Algoritmos_DYV_y_Voraces">Repository link</a>
+    </div>
+  <br>
+</details>
+<!-- end algorithms -->
+
+<!-- start artificial inteligence -->
+<details>
+<summary><b> Java App to study pathfinding algorithms :point_right: </b></summary>
+  <br>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/19192017/142050911-2a0c20ab-0bf0-4182-ab2b-590093147cc2.png" alt="art inteligence" />
+  </div>
+  <br>
+    <div align="center">
+        <a href="https://github.com/JonathanJR/Laberinto_Algoritmos_de_Busqueda">Repository link</a>
+    </div>
+  <br>
+</details>
+<!-- end artificial inteligence -->
 
 ## Certifications 📜
 - [ionic 6+: Create IOS, Android and PWAs applications with Angular](https://www.udemy.com/certificate/UC-7d26dee4-1ec6-413e-afff-fc8c44c20f90/) @ Udemy
