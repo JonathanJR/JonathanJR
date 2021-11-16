@@ -2,7 +2,7 @@
 
 ### Hi, my name is Jonathan 👋 and I ❤️ software development
 - **Android Mobile Developer** at NTT DATA
-- **Engineer Student** at University of Huelva
+- **Graduate Engineer** at University of Huelva
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
@@ -35,14 +35,22 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimen
 <!-- start angular web gilena informa -->
 <details>
 <summary><b> Gilena Informa (Web APP - Angular) :point_right: </b></summary>
-
+  <br>
+  <img src="https://user-images.githubusercontent.com/19192017/142044720-2608a7fe-86cc-4f35-945c-a42c0558af3c.gif" alt="web angular"/>
+  <br>
+  <br>
 </details>
 <!-- end angular web gilena informa -->
 
 <!-- start ionic mobile gilena informa -->
 <details>
 <summary><b> Gilena Informa (Mobile APP - Ionic) :point_right: </b></summary>
-
+  <br>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/19192017/142046829-65eee6f9-d095-40c1-8aaf-95073c6ff40f.gif" alt="ionic" height="650" />
+  </div>
+  <br>
+  <br>
 </details>
 <!-- end ionic mobile gilena informa -->
 
