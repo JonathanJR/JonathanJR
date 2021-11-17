@@ -8,7 +8,7 @@
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
-Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1qjpm5F1vKi_bkEhDJRWRzhlhYvvP1kKm/view?usp=sharing)
+Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/16T7j_BivSOJJ4TEaQQluQXfg0QsdyQB6/view?usp=sharing)
 
 ## Skills 🛠️
 - **Languages**: Java, Kotlin, [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
