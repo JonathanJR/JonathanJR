@@ -25,14 +25,14 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 | Junior Web Engineer   | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.05.2021    |
 | Freelance             |        -       | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez-reina/)
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/)
 
 
 ## Education 🎓
 - **Degree** in Computer Software Engineering at Huelva, Spain - Higher Technical School of Engineering (2016 - 2020)
   - [Digital Title Certificate](https://drive.google.com/file/d/1pL3V_JZfEWuqxvthbUt2aRGddYyPfop9/view?usp=sharing) 
 
-More about education in my [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez-reina/).
+More about education in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/).
 
 ## Projects 🐾
 
@@ -109,5 +109,5 @@ It is built using TypeScript under the Ionic framework, using Firebase as a data
 
 ## Contact Me on Social Media 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-jimenez-reina/)](https://www.linkedin.com/in/jonathan-jimenez-reina/) [![Twitter Badge](https://img.shields.io/badge/JonathanJR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yoni_gilena)](https://twitter.com/yoni_gilena)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jonathan.jimenezreina/)](https://www.instagram.com/jonathan.jimenezreina/)  [![Instagram Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/jonathan.jimenezreina)](https://www.facebook.com/jonathan.jimenezreina) [![Gmail Badge](https://img.shields.io/badge/Contact_me_here-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jonathanjimenezreina@gmail.com)](mailto:jonathanjimenezreina@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanjimrei/)](https://www.linkedin.com/in/jonathanjimrei/) [![Twitter Badge](https://img.shields.io/badge/JonathanJR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yoni_gilena)](https://twitter.com/yoni_gilena)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jonathan.jimenezreina/)](https://www.instagram.com/jonathan.jimenezreina/)  [![Instagram Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/jonathan.jimenezreina)](https://www.facebook.com/jonathan.jimenezreina) [![Gmail Badge](https://img.shields.io/badge/Contact_me_here-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jonathanjimenezreina@gmail.com)](mailto:jonathanjimenezreina@gmail.com)
 
