@@ -8,11 +8,13 @@
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
+Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1qjpm5F1vKi_bkEhDJRWRzhlhYvvP1kKm/view?usp=sharing)
+
 ## Skills 🛠️
 - **Languages**: Java, Kotlin, [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
 - **Frameworks**: [Angular](https://www.udemy.com/certificate/UC-c038575f-81b8-4ffd-ae56-95b9fe2b3a98/), [Ionic](https://www.udemy.com/certificate/UC-7d26dee4-1ec6-413e-afff-fc8c44c20f90/), [BootStrap](https://www.udemy.com/certificate/UC-ba18aa30-4912-425f-a6b9-6fa1aa1f7489/)
 - **Dev Platform**: [Firebase](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/)
-- **IDE's**: Android Studio, Visual Code, Sublime Text, Eclipse, NetBeans
+- **IDE's**: Android Studio, Visual Studio Code, Sublime Text, Eclipse, NetBeans
 - **DevOps**: Windows, Linux, Git, REST API
 
 
