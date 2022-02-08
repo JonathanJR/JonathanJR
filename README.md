@@ -19,11 +19,11 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 
 
 ## Work experience 👔
-| Job Position          | Company        | Field                           | Work Period                |
-| --------------------- | -------------- | ------------------------------- | -------------------------- |
-| Junior Mobile Engineer| NTT DATA       | Android developer for INDITEX   | **01.05.2021 — until now** |
-| Junior Web Engineer   | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.05.2021    |
-| Freelance             |        -       | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
+| Job Position           | Company        | Field                           | Work Period                |
+| ---------------------  | -------------- | ------------------------------- | -------------------------- |
+| Android Mobile Engineer| NTT DATA       | Android developer for INDITEX   | **01.02.2021 — until now** |
+| Junior Web Engineer    | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.02.2021    |
+| Freelance              |        -       | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/)
 
