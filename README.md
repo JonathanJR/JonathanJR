@@ -8,7 +8,7 @@
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
-Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1y500l9GPv8Z9-iUiEDULbWY5eoeiO2Bm/view?usp=sharing)
+Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1lHE9Zt42deohs3uFcRJ-CapPM5dMzf1y/view?usp=sharing)
 
 ## Skills 🛠️
 - **Languages**: Java, Kotlin, [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
@@ -19,11 +19,12 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 
 
 ## Work experience 👔
-| Job Position           | Company        | Field                           | Work Period                |
-| ---------------------  | -------------- | ------------------------------- | -------------------------- |
-| Android Mobile Engineer| NTT DATA       | Android developer for INDITEX   | **01.02.2021 — until now** |
-| Junior Web Engineer    | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.02.2021    |
-| Freelance              |        -       | Full Stack Web and Mobile       | 01.12.2019 — 26.10.2020    |
+| Job Position                  | Company        | Field                           | Work Period                |
+| ----------------------------- | -------------- | ------------------------------- | -------------------------- |
+| Senior Android Mobile Engineer| PASSPORTER     | Android developer               | **01.03.2022 — until now** |
+| Mid Android Mobile Engineer   | NTT DATA       | Android developer for INDITEX   | 01.02.2021 — 01.03.2022    |
+| Junior Web Engineer           | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.02.2021    |
+| Freelance                     |        -       | Full Stack Web and Android      | 01.12.2019 — 26.10.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/)
 
