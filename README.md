@@ -22,8 +22,7 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 | Job Position                  | Company        | Field                           | Work Period                |
 | ----------------------------- | -------------- | ------------------------------- | -------------------------- |
 | Senior Android Mobile Engineer| PASSPORTER     | Android developer               | **01.03.2022 — until now** |
-| Mid Android Mobile Engineer   | NTT DATA       | Android developer for INDITEX   | 01.02.2021 — 01.03.2022    |
-| Junior Web Engineer           | NTT DATA       | Web developer for IBERIA        | 26.10.2020 — 01.02.2021    |
+| Mid Android Mobile Engineer   | NTT DATA       | Android developer for INDITEX   | 26.10.2020 — 01.03.2022    |
 | Freelance                     |        -       | Full Stack Web and Android      | 01.12.2019 — 26.10.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/)
