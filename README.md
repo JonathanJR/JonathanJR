@@ -3,15 +3,15 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/jonathanjr&left_color=grey&right_color=brightgreen)
 
 ### Hi, my name is Jonathan 👋 and I ❤️ software development
-- **Android Mobile Developer** at NTT DATA
+- **Android Mobile Developer** at GPS Insight (Ireland)
 - **Graduate Engineer** at University of Huelva
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
-Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1m3VC7vHoF_uzY2sZzceUpAHRn1AOo41H/view?usp=sharing)
+Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1379FYOU5IfQqCWcKqDZ3hZx0J7fIW2Hy/view?usp=sharing)
 
 ## Skills 🛠️
-- **Languages**: Java, Kotlin, [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
+- **Languages**: Java, Kotlin, [Jetpack Compose](https://www.udemy.com/certificate/UC-74b5ac89-867a-4e82-a82a-5c42fe375721/), [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
 - **Frameworks**: [Angular](https://www.udemy.com/certificate/UC-c038575f-81b8-4ffd-ae56-95b9fe2b3a98/), [Ionic](https://www.udemy.com/certificate/UC-7d26dee4-1ec6-413e-afff-fc8c44c20f90/), [BootStrap](https://www.udemy.com/certificate/UC-ba18aa30-4912-425f-a6b9-6fa1aa1f7489/)
 - **Dev Platform**: [Firebase](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/)
 - **IDE's**: Android Studio, Visual Studio Code, Sublime Text, Eclipse, NetBeans
@@ -21,7 +21,8 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 ## Work experience 👔
 | Job Position                  | Company        | Field                           | Work Period                |
 | ----------------------------- | -------------- | ------------------------------- | -------------------------- |
-| Senior Android Mobile Engineer| PASSPORTER     | Android developer               | **01.03.2022 — until now** |
+| Senior Android Mobile Engineer| GPS INSIGTH    | Android developer               | **14.10.2022 — until now** |
+| Mid Android Mobile Engineer   | PASSPORTER     | Android developer               | 01.03.2022 - 14.10.2022    |
 | Mid Android Mobile Engineer   | NTT DATA       | Android developer for INDITEX   | 26.10.2020 — 01.03.2022    |
 | Freelance                     |        -       | Full Stack Web and Android      | 01.12.2019 — 26.10.2020    |
 
@@ -101,6 +102,7 @@ It is built using TypeScript under the Ionic framework, using Firebase as a data
 <!-- end artificial inteligence -->
 
 ## Certifications 📜
+- [Jetpack Compose: Ultimate course from 0](https://www.udemy.com/certificate/UC-74b5ac89-867a-4e82-a82a-5c42fe375721/) @ Udemy
 - [ionic 6+: Create IOS, Android and PWAs applications with Angular](https://www.udemy.com/certificate/UC-7d26dee4-1ec6-413e-afff-fc8c44c20f90/) @ Udemy
 - [The Web Starts Here: TypeScript, Angular, Storage, Firebase](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/) @ Udemy
 - [Angular: From Zero to Expert (Legacy)](https://www.udemy.com/certificate/UC-c038575f-81b8-4ffd-ae56-95b9fe2b3a98/) @ Udemy
