@@ -2,7 +2,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/jonathanjr&left_color=grey&right_color=brightgreen)
 
-### Hi, my name is Jonathan 👋 and I ❤️ software development
+### Hi, my name is Jonathan 👋 and I ❤️ Software Development
 - **Android Mobile Engineer** at GPS Insight (Ireland)
 - **Graduate Software Engineer** at University of Huelva
 
