@@ -3,10 +3,10 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/jonathanjr&left_color=grey&right_color=brightgreen)
 
 ### Hi, my name is Jonathan 👋 and I ❤️ software development
-- **Android Mobile Developer** at GPS Insight (Ireland)
-- **Graduate Engineer** at University of Huelva
+- **Android Mobile Engineer** at GPS Insight (Ireland)
+- **Graduate Software Engineer** at University of Huelva
 
-**Field of interests**: Android, Kotlin, Ionic, Java, DevOps
+**Field of interests**: Android, Kotlin, Jetpack Compose, Kotlin Multiplatform, Java, DevOps
 
 Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1wWVwZfn38CJU1JGvA9P8crON1hFVM-8a/view?usp=sharing)
 
