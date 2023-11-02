@@ -8,7 +8,7 @@
 
 **Field of interests**: Android, Kotlin, Ionic, Java, DevOps
 
-Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1379FYOU5IfQqCWcKqDZ3hZx0J7fIW2Hy/view?usp=sharing)
+Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://drive.google.com/file/d/1wWVwZfn38CJU1JGvA9P8crON1hFVM-8a/view?usp=sharing)
 
 ## Skills 🛠️
 - **Languages**: Java, Kotlin, [Jetpack Compose](https://www.udemy.com/certificate/UC-74b5ac89-867a-4e82-a82a-5c42fe375721/), [TypeScript](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), [HTML](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/), CSS, JavaScript, jQuery
@@ -21,9 +21,9 @@ Take a look to my CV 📝 -> [![View CV](https://img.shields.io/badge/CV-148EFF?
 ## Work experience 👔
 | Job Position                  | Company        | Field                           | Work Period                |
 | ----------------------------- | -------------- | ------------------------------- | -------------------------- |
-| Senior Android Mobile Engineer| GPS INSIGTH    | Android developer               | **14.10.2022 — until now** |
-| Mid Android Mobile Engineer   | PASSPORTER     | Android developer               | 01.03.2022 - 14.10.2022    |
-| Mid Android Mobile Engineer   | NTT DATA       | Android developer for INDITEX   | 26.10.2020 — 01.03.2022    |
+| Senior Android Mobile Engineer| GPS INSIGTH    | Android Engineer                | **14.10.2022 — until now** |
+| Mid Android Mobile Engineer   | PASSPORTER     | Android Engineer                | 01.03.2022 - 14.10.2022    |
+| Mid Android Mobile Engineer   | NTT DATA       | Android Engineer for INDITEX    | 26.10.2020 — 01.03.2022    |
 | Freelance                     |        -       | Full Stack Web and Android      | 01.12.2019 — 26.10.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jonathanjimrei/)
