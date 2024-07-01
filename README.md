@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/jonathanjr&left_color=grey&right_color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=JonathanJR)
 
 ### Hi, my name is Jonathan 👋 and I ❤️ Software Development
 - **Android Mobile Engineer** at GPS Insight (Ireland)
