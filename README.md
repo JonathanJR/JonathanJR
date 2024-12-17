@@ -102,6 +102,8 @@ It is built using TypeScript under the Ionic framework, using Firebase as a data
 <!-- end artificial inteligence -->
 
 ## Certifications 📜
+- [Kotlin Multiplatform & Compose Multiplatform: Curso Definitivo desde 0](https://www.appcademy.dev/certificates/cert_7VrcA8Rl) @ Appcademy
+- [Firebase para Android con Kotlin](https://www.appcademy.dev/certificates/cert_GeAUz7PA) @ Appcademy
 - [Jetpack Compose: Ultimate course from 0](https://www.udemy.com/certificate/UC-74b5ac89-867a-4e82-a82a-5c42fe375721/) @ Udemy
 - [ionic 6+: Create IOS, Android and PWAs applications with Angular](https://www.udemy.com/certificate/UC-7d26dee4-1ec6-413e-afff-fc8c44c20f90/) @ Udemy
 - [The Web Starts Here: TypeScript, Angular, Storage, Firebase](https://www.udemy.com/certificate/UC-2e5a4a20-72a4-476f-bbd2-d94189d59d07/) @ Udemy
